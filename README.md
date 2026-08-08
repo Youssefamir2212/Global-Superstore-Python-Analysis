@@ -64,10 +64,7 @@ Global_SuperStore_Python_Project/
 ## How to Run
 
 1. Download or clone the repository.
-2. Make sure the Excel dataset is inside the `data` folder with the expected filename.
-3. Open `Global_SuperStore.ipynb` using Jupyter Notebook or JupyterLab.
+2. Open `Global_SuperStore (1).ipynb` using Jupyter Notebook or JupyterLab.
+3. Make sure the required dataset is available in the working directory.
 4. Run the notebook cells from top to bottom.
 
-## Note
-
-The analysis focuses on Python concepts learned during the current Python data-analysis learning stage, including Pandas, NumPy, Matplotlib, data cleaning, grouping, aggregation, filtering, datetime handling, and exploratory data analysis.
